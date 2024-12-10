@@ -17,6 +17,6 @@ Cada día se creará una carpeta que contendrá el código, archivos y documenta
 Este año estoy participando en el reto del Calendario de Adviento de Midudev, con los siguientes retos ya completados:
 
 - Día 1: [Ordenando los Regalos Sin Duplicados](./01.js)
-- Día 2: [Descripción del reto]
+- Día 2: [Enmarcando los Nombres para el Taller de Santa](./02.js)
 - Día 3: [Descripción del reto]
 - ...
