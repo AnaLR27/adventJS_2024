@@ -38,20 +38,14 @@ createFrame(['a', 'bb', 'ccc', 'dddd'])
 */
 
 function createFrame(names) {
-  let maxLength = 0;
-  names.forEach((element) => {
-    if (element.length > maxLength) {
-      maxLength = element.length;
-    }
-  });
+  //let tamaño = names.reduce((ac, el) => (ac < el.length ? el.length : ac), 0);
+  let longMax = names.reduce((ac, el) => Math.max(ac, el.length), 0);
+  let borde = "*".repeat(longMax + 4);
 
-  let borde = "*".repeat(maxLength + 4);
   let nombres = names
-    .map((n) => `* ${n} ${" ".repeat(maxLength - n.length)}*`)
+    .map((name) => `* ${name} ${" ".repeat(longMax - name.length)}*`)
     .join("\n");
-
   let resultado = `${borde}\n${nombres}\n${borde}`;
-
   return resultado;
 }
 

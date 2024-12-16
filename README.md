@@ -16,7 +16,11 @@ Cada día se creará una carpeta que contendrá el código, archivos y documenta
 
 Este año estoy participando en el reto del Calendario de Adviento de Midudev, con los siguientes retos ya completados:
 
-- Día 1: [Ordenando los Regalos Sin Duplicados](./01.js)
-- Día 2: [Enmarcando los Nombres para el Taller de Santa](./02.js)
-- Día 3: [Descripción del reto]
-- ...
+- Día 1: [Ordenando los Regalos Sin Duplicados](./01.js) **Puntuación**: 5/5⭐
+- Día 2: [Enmarcando los Nombres para el Taller de Santa](./02.js) **Puntuación**: 5/5⭐
+- Día 3: [Organizando el Inventario de Santa Claus](./03.js) **Puntuación**: 4/5⭐
+- Día 4: [Decorando el árbol de Navidad](./04.js) **Puntuación**: 5/5⭐
+- Día 5: [Emparejando botas mágicas](./05.js) **Puntuación**: 4/5⭐
+- Día 6: [¿Hay un regalo dentro de la caja?](./06.js) **Puntuación**: 5/5⭐
+- Día 7: [El ataque del Grinch](./07.js) **Puntuación**: 5/5⭐
+- Día 8: [La carrera de renos](./08.js) **Puntuación**: 5/5⭐
