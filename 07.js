@@ -10,6 +10,10 @@ Devuelve el string resultante con los paréntesis eliminados, pero con el conten
 Nos ha dejado algunos ejemplos:
 */
 
+/** @param {string} packages with parentheses
+ *  @returns {string} Fixed and sorted packages
+ */
+
 function fixPackages(packages) {
   while (packages.includes("(")) {
     let ultimaApertura = packages.lastIndexOf("(");
@@ -25,7 +29,6 @@ function fixPackages(packages) {
 
   return packages;
 }
-
 
 /*
 // ➞ "abcde"

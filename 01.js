@@ -4,6 +4,11 @@ Santa Claus 🎅 ha recibido una lista de números mágicos que representan rega
 Tu tarea es escribir una función que reciba una lista de números enteros (que pueden incluir duplicados) y devuelva una nueva lista sin duplicados, ordenada en orden ascendente.
 */
 
+/**
+ * @param {number[]} gifts - The array of gifts to prepare
+ * @returns {number[]} An array with the prepared gifts
+ */
+
 function prepareGifts(gifts) {
   let copia = [...new Set(gifts)];
 

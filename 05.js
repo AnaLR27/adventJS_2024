@@ -7,6 +7,12 @@ Tu tarea es ayudar a los elfos a emparejar todas las botas del mismo tamaño que
 
 ¡Ten en cuenta que puedes tener más de una zapatilla emparejada del mismo tamaño!
 */
+
+/**
+ * @param {{ type: 'I' | 'R', size: number }[]} shoes
+ * @returns {number[]} Available shoes 
+ */
+
 function organizeShoes(shoes) {
   let pares = [];
   let zapatos = {};

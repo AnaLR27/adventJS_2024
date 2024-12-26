@@ -19,6 +19,12 @@ Los carriles están numerados al final con /1, /2, etc.
 La vista es isométrica, por lo que los carriles inferiores están desplazados hacia la derecha.
 */
 
+/**
+ * @param {number[]} indices - The reno indices
+ * @param {number} length - The length of the race
+ * @returns {string} The reno race
+ */
+
 function drawRace(indices, length) {
   let pista = "";
 
