@@ -26,6 +26,8 @@ Este año estoy participando en el reto del Calendario de Adviento de Midudev, c
 - Día 8: [La carrera de renos](./08.js) **Puntuación**: 5/5⭐
 - Día 9: [El tren mágico](./09.js) **Puntuación**: 1/5⭐
 - Día 11: [Decodificador para los elfos](./11.js) **Puntuación**: 5/5⭐
+- Día 12: [¿Cuánto cuesta el árbol de navidad?](./12.js) **Puntuación**: 3/5⭐
+
 <!--
 - Día 10: [El ensamblador élfico](./10.js) **Puntuación**: 1/5⭐
   -->
