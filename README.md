@@ -30,4 +30,4 @@ Este año estoy participando en el reto del Calendario de Adviento de Midudev, c
 - Día 12: [¿Cuánto cuesta el árbol de navidad?](./12.js) **Puntuación**: 3/5⭐
 - Día 13: [¿El robot está de vuelta? En proceso...](./13.js) **Puntuación**: \*/5⭐
 - Día 14: [Acomodando los renos de Santa Claus](./14.js) **Puntuación**: 3/5⭐
-
+- Día 15: [Dibujando tablas](./15.js) **Puntuación**: 4/5⭐
